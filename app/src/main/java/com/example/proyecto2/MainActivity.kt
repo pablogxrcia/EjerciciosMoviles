@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
             "1º DAM" -> listOf(
                 "programacion",
                 "sistemas",
-                "lenguaje de marcas",
+                "lenguaje de marca",
                 "base de datos",
                 "entorno"
             )
